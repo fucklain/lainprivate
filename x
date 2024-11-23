@@ -1,5 +1,5 @@
 script_key="@lainlainlainn";
-getgenv().lainprivate = {
+getgenv().lumina = {
     Options = {
         Type = "Target",
         UpdateNotification = true,
